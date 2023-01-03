@@ -1,0 +1,15 @@
+sliders: integer, float, logarithmic scale, can be done vertically, can do ranges
+can produce graphics of loading bars
+can do those little boxes where you scroll up and down with the tiny arrows to pick an integer or 1dp float
+can do click buttons, textboxes, little ticks and crosses
+can do drop-down lists, radio buttons, 'select' menus, 'select' sliders (with ranges), toggle buttons, options to select multiple choices
+can do textboxes including with drop-down
+has a password widget but it's not secure
+can label widgets and do some HTML and displayed maths
+can do images
+can use Play widget to do animations
+can do drag and drop tags with numbers, strings, colours
+can pick dates and times and do timezones
+can upload files
+will allow connection of a game console
+has container widgets to give various layouts
