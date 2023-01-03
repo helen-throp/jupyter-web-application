@@ -1,5 +1,5 @@
 # jupyter-web-application
 Building interactive web applications using Jupyter notebooks.
 
-Here is a Binder link for my widget for producing emails to reschedule appointments:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/helen-throp/jupyter-web-application/HEAD?urlpath=email_template_for_cancelling_and_delaying_appointments)
+**Binder links for my projects**
+- Email template for cancelling and rescheduling appointments: https://hub.gke2.mybinder.org/user/helen-throp-jup-web-application-i8lhz4mo/doc/tree/voila/render/email-template-for-cancelling-and-delaying-appointments.ipynb
